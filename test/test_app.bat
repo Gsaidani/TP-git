@@ -1,4 +1,3 @@
 
+echo"version 1.2.0-b"
 
-version = "1.2.0-b"
-echo "version ${version}"
